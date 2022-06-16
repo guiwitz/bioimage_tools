@@ -1,6 +1,8 @@
 channels:
   - conda-forge
 dependencies:
+  - python=3.9
+  - napari[all]
   - qgis=3.18
   - websockify
   - pip
