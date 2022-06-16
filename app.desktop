@@ -3,4 +3,4 @@ Version=1.0
 Type=Application
 Name=napari
 Exec=napari
-Icon=napari.png
+Icon=/home/jovyan/napari.png
