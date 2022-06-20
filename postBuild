@@ -1,2 +1,6 @@
 wget https://downloads.imagej.net/fiji/latest/fiji-linux64.zip
 unzip fiji-linux64.zip
+
+pip uninstall pyqt5 -y
+conda remove pyqt -y
+pip install "napari[all]"
