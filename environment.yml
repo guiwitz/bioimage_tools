@@ -8,4 +8,4 @@ dependencies:
   - pip:
       - napari[all]
       - jupyter-desktop-server
-      - napari-segment-blobs-and-things-with-membranes
+      #- napari-segment-blobs-and-things-with-membranes
